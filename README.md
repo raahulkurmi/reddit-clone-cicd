@@ -30,7 +30,7 @@ Follow these steps to install and run the Reddit clone app on your local machine
 
 
 Step 1: Clone the source code
-The first step is to clone the source code for the app. You can do this by using this command git clone https://github.com/LondheShubham153/reddit-clone-k8s-ingress.git
+The first step is to clone the source code for the app. You can do this by using this command git clone https://github.com/raahulkurmi/reddit-clone-cicd/tree/main
 
 Step 2: Containerize the Application using Docker
 Write a Dockerfile with the following code:
